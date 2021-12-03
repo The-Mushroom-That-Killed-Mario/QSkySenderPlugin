@@ -1,8 +1,7 @@
 syntax: glob
 dist/*
-build/*
+
 # Default ignored files
 .idea/workspace.xml
 .idea/*
 .gradle/*
-/*.jar
